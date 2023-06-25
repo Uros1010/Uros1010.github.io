@@ -1,5 +1,13 @@
 @media screen  and (max-width: 767px) {
    
+    .carousel-item img{
+        height: 300px;
+    }
+
+    #cover-contact, #cover, #cover-about-us, #cover-author{
+        height: 300px;
+    }
+
     .fa-solid, .fa-brands{
         font-size: 15px;
     }
