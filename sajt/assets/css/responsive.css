@@ -27,7 +27,6 @@
     }
     .ft-bl{
         display: flex;
-        flex-direction: column;
         flex-wrap: wrap;
     }
 
@@ -64,6 +63,28 @@
         font-size: 40px;
     }
 
+    #cover-home h1{
+        font-size: 22px;
+    }
+    #cover-home p{
+        font-size: 16px;
+    }
+
+    #info h4{
+        font-size: 20px;
+    }
+    #info li{
+        font-size: 16px;
+    }
+    
+    .card-title{
+        font-size: 20px;
+    }
+
+    .list-group-item{
+        font-size: 17px;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -71,6 +92,28 @@
     .carousel-item img{
         height: 200px;
         background-size: cover;
+    }
+    #cover-home h1{
+        font-size: 18px;
+    }
+    #cover-home p{
+        font-size: 14px;
+    }
+
+    #info h4{
+        font-size: 16px;
+    }
+
+    #info li{
+        font-size: 14px;
+    }
+
+    .card-title{
+        font-size: 18px;
+    }
+
+    .list-group-item{
+        font-size: 15px;
     }
 
     #cover-contact{
