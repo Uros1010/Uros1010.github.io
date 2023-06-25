@@ -88,7 +88,7 @@ footer{
    
 }
 
-#cover-text h1, #cover-text-gallery h1, #cover-text-contact h1, #cover-text-author h1, #cover-text-about h1 {
+#cover-text h1, #cover-text-gallery h1, #cover-text-contact h1, #cover-text-author h1, #cover-text-about h1{
     font-weight: bold;
 }
 
