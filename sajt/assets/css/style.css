@@ -87,6 +87,11 @@ footer a:visited{
     animation: rotate-animation 10s infinite linear;
 }
 
+@keyframes fadeIn{
+	0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
 @keyframes rotate-animation {
 	0% {
 		transform: rotate(0deg);
@@ -160,6 +165,17 @@ footer a:visited{
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
+    
+}
+
+#banner:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+}
+
+#card-tr:hover{
+    transform: scale(1.1);
+   
 }
 
 /*author*/
