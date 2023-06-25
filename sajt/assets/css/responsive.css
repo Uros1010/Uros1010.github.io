@@ -49,6 +49,19 @@
 
     #product-text{
         font-size: 20px;
+    } 
+
+    .text-rs{
+        font-size: 18px;
+    }
+
+    .text-p{
+        font-size: 14px;
+    }
+
+    .fa-box, .fa-umbrella, .fa-q{
+        color: #ffffff;
+        font-size: 40px;
     }
 
 }
@@ -98,5 +111,16 @@
 
     #product-text{
         font-size: 18px;
+    }
+
+    .text-rs{
+        font-size: 30px;
+    }
+
+    .fa-box, .fa-umbrella, .fa-q {
+        font-size: 40px;
+    }
+    .text-p{
+        font-size: 25px;
     }
 }

@@ -81,6 +81,11 @@ footer a:visited{
     color: #ffffff;
 }
 
+.fa-box, .fa-umbrella, .fa-q{
+    color: #ffffff;
+    font-size: 50px;
+}
+
 
 /*products*/
 #cover{
