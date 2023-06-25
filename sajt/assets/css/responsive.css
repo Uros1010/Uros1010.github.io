@@ -47,6 +47,10 @@
         font-size: 30px;
     }
 
+    #product-text{
+        font-size: 20px;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -90,5 +94,9 @@
     }
     #cover-text-about h1{
         font-size: 20px;
+    }
+
+    #product-text{
+        font-size: 18px;
     }
 }

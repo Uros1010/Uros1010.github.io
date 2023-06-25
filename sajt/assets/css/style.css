@@ -10,6 +10,9 @@ a{
     text-decoration: none;
 }
 
+a:hover{
+    text-decoration: underline;
+}
 ul{
     list-style-type: none;
 }
@@ -74,6 +77,10 @@ footer a{
     color: #ffffff;
 }
 
+footer a:visited{
+    color: #ffffff;
+}
+
 
 /*products*/
 #cover{
@@ -100,6 +107,10 @@ footer a{
 
 #cover-text h1{
     font-size: 60px;
+}
+
+#product-text{
+    font-size: 25px;
 }
 
 
