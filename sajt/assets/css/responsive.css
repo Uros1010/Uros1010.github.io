@@ -1,3 +1,22 @@
+@media screen and (max-width: 1024px) {
+    #cover-contact{
+        height: 400px;
+        background-size: cover;
+    }
+    #cover{
+        height: 400px;
+        background-size: cover;
+    }
+    #cover-about-us{
+        height: 400px;
+        background-size: cover;
+    }
+    #cover-author{
+        height: 400px;
+        background-size: cover;
+    }
+}
+
 @media screen  and (max-width: 767px) {
    
     .carousel-item img{

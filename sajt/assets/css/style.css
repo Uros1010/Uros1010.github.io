@@ -198,3 +198,248 @@ footer a:visited{
 .text-b{
     font-size: 20px;
 }
+
+
+
+
+
+/*responsive*/
+@media screen and (max-width: 1024px) {
+    #cover-contact{
+        height: 400px;
+        background-size: cover;
+    }
+    #cover{
+        height: 400px;
+        background-size: cover;
+    }
+    #cover-about-us{
+        height: 400px;
+        background-size: cover;
+    }
+    #cover-author{
+        height: 400px;
+        background-size: cover;
+    }
+}
+
+@media screen  and (max-width: 767px) {
+   
+    .carousel-item img{
+        height: 300px;
+    }
+
+    #cover-contact{
+        height: 300px;
+        background-size: cover;
+    }
+    #cover{
+        height: 300px;
+        background-size: cover;
+    }
+    #cover-about-us{
+        height: 300px;
+        background-size: cover;
+    }
+
+    #cover-author{
+        height: 300px;
+        background-size: cover;
+    }
+
+    .fa-solid, .fa-brands{
+        font-size: 15px;
+    }
+    .ft-bl{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #products h3{
+        font-size: 30px;
+    }
+
+    #cover-text h1 {
+        font-size: 30px;
+    }
+    #cover-text-gallery h1{
+        font-size: 30px;
+    }
+    #cover-text-contact h1{
+        font-size: 30px;
+    }
+    #cover-text-author h1{
+        font-size: 30px;
+    }
+    #cover-text-about h1{
+        font-size: 30px;
+    }
+
+    #product-text{
+        font-size: 20px;
+    } 
+
+    .tx2{
+        font-size: 25px;
+    }
+
+    .text-rs{
+        font-size: 18px;
+    }
+
+    .text-p{
+        font-size: 14px;
+    }
+
+    .fa-box, .fa-umbrella, .fa-q{
+        color: #ffffff;
+        font-size: 40px;
+    }
+
+    #cover-home h1{
+        font-size: 22px;
+    }
+    #cover-home p{
+        font-size: 16px;
+    }
+
+    #info h4{
+        font-size: 20px;
+    }
+    #info li{
+        font-size: 16px;
+    }
+    
+    .card-title{
+        font-size: 20px;
+    }
+
+    .list-group-item{
+        font-size: 16px;
+    }
+
+    .tx{
+        font-size: 16px;
+    }
+
+    .text-c{
+        font-size: 16px;
+    }
+
+    .text-h2{
+        font-size: 25px;
+    }
+
+    .text-a{
+        font-size: 18px;
+    }
+
+    .text-b{
+        font-size: 16px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    
+    .carousel-item img{
+        height: 200px;
+        background-size: cover;
+    }
+    #cover-home h1{
+        font-size: 18px;
+    }
+    #cover-home p{
+        font-size: 14px;
+    }
+
+    #info h4{
+        font-size: 16px;
+    }
+
+    #info li{
+        font-size: 14px;
+    }
+
+    .card-title{
+        font-size: 18px;
+    }
+    #products h3{
+        font-size: 26px;
+    }
+    .tx2{
+        font-size: 20px;
+    }
+
+    .list-group-item{
+        font-size: 14px;
+    }
+
+    #cover-contact{
+        height: 200px;
+        background-size: cover;
+    }
+    #cover{
+        height: 200px;
+        background-size: cover;
+    }
+    #cover-about-us{
+        height: 200px;
+        background-size: cover;
+    }
+
+    #cover-author{
+        height: 200px;
+        background-size: cover;
+    }
+
+    #cover-text h1{
+        font-size: 20px;
+    }
+    #cover-text-gallery h1{
+        font-size: 20px;
+    }
+
+    #cover-text-contact h1{
+        font-size: 20px;
+    }
+
+    #cover-text-author h1{
+        font-size: 20px;
+    }
+    #cover-text-about h1{
+        font-size: 20px;
+    }
+
+    #product-text{
+        font-size: 18px;
+    }
+
+    .text-rs{
+        font-size: 25px;
+    }
+
+    .fa-box, .fa-umbrella, .fa-q {
+        font-size: 40px;
+    }
+    .text-p{
+        font-size: 22px;
+    }
+
+    .tx{
+        font-size: 14px;
+    }
+    .text-c{
+        font-size: 12px;
+    }
+
+    .text-h2{
+        font-size: 25px;
+    }
+    .text-a{
+        font-size: 22px;
+    }
+    .text-b{
+        font-size: 18px;
+    }
+}
