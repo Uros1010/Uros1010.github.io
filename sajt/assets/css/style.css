@@ -186,3 +186,15 @@ footer a:visited{
     display: flex;
     align-items: center;
 }
+
+.tx{
+    font-size: 25px;
+}
+
+.text-a{
+    font-size: 22px;
+}
+
+.text-b{
+    font-size: 20px;
+}
