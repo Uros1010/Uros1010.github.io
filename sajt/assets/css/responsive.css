@@ -43,6 +43,9 @@
     #cover-text-author h1{
         font-size: 30px;
     }
+    #cover-text-author h1{
+        font-size: 30px;
+    }
 
 }
 
@@ -83,6 +86,9 @@
     }
 
     #cover-text-author h1{
+        font-size: 20px;
+    }
+    #cover-text-about h1{
         font-size: 20px;
     }
 }

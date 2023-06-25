@@ -79,7 +79,7 @@ footer{
     background-repeat: no-repeat;
 }
 
-#cover-text, #cover-text-gallery, #cover-text-contact, #cover-text-author{
+#cover-text, #cover-text-gallery, #cover-text-contact, #cover-text-author, #cover-text-about{
     text-align: center;
     margin: 0px auto;
     color: #000000;
@@ -88,7 +88,7 @@ footer{
    
 }
 
-#cover-text h1, #cover-text-gallery h1, #cover-text-contact h1, #cover-text-author h1{
+#cover-text h1, #cover-text-gallery h1, #cover-text-contact h1, #cover-text-author h1, #cover-text-about h1{
     font-weight: bold;
 }
 
@@ -123,6 +123,8 @@ footer{
     background-image: url(../img/about1-1.jpg);
     height: 500px;
     background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
 }
 
 /*author*/
