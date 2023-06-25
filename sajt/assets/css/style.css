@@ -61,11 +61,17 @@ font-size: 20px;
 
 .fa-solid, .fa-brands{
     font-size: 30px;
+    color: #ffffff;
    
 }
 
 footer{
     margin-top: 20px;
+    
+}
+
+footer a{
+    color: #ffffff;
 }
 
 
