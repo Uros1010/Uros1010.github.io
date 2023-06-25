@@ -31,7 +31,16 @@
         flex-wrap: wrap;
     }
 
-    #cover-text h1, #cover-text-gallery h1, #cover-text-contact h1, #cover-text-author h1{
+    #cover-text h1 {
+        font-size: 30px;
+    }
+    #cover-text-gallery h1{
+        font-size: 30px;
+    }
+    #cover-text-contact h1{
+        font-size: 30px;
+    }
+    #cover-text-author h1{
         font-size: 30px;
     }
 
@@ -62,7 +71,18 @@
         background-size: cover;
     }
 
-    #cover-text h1, #cover-text-gallery h1, #cover-text-contact h1, #cover-text-author h1{
+    #cover-text h1{
+        font-size: 20px;
+    }
+    #cover-text-gallery h1{
+        font-size: 20px;
+    }
+
+    #cover-text-contact h1{
+        font-size: 20px;
+    }
+
+    #cover-text-author h1{
         font-size: 20px;
     }
 }
