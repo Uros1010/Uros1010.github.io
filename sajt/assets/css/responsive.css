@@ -30,6 +30,10 @@
         flex-wrap: wrap;
     }
 
+    #products h3{
+        font-size: 30px;
+    }
+
     #cover-text h1 {
         font-size: 30px;
     }
@@ -49,6 +53,10 @@
     #product-text{
         font-size: 20px;
     } 
+
+    .tx2{
+        font-size: 25px;
+    }
 
     .text-rs{
         font-size: 18px;
@@ -110,6 +118,12 @@
 
     .card-title{
         font-size: 18px;
+    }
+    #products h3{
+        font-size: 26px;
+    }
+    .tx2{
+        font-size: 20px;
     }
 
     .list-group-item{
