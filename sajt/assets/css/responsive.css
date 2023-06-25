@@ -1,0 +1,12 @@
+@media screen  and (max-width: 767px) {
+   
+    .fa-solid, .fa-brands{
+        font-size: 15px;
+    }
+    .ft-bl{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+}
