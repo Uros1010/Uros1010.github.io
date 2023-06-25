@@ -90,7 +90,15 @@
     }
 
     .list-group-item{
-        font-size: 17px;
+        font-size: 16px;
+    }
+
+    .tx{
+        font-size: 16px;
+    }
+
+    .text-c{
+        font-size: 16px;
     }
 
 }
@@ -127,7 +135,7 @@
     }
 
     .list-group-item{
-        font-size: 15px;
+        font-size: 14px;
     }
 
     #cover-contact{
@@ -171,13 +179,20 @@
     }
 
     .text-rs{
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .fa-box, .fa-umbrella, .fa-q {
         font-size: 40px;
     }
     .text-p{
-        font-size: 25px;
+        font-size: 22px;
+    }
+
+    .tx{
+        font-size: 14px;
+    }
+    .text-c{
+        font-size: 12px;
     }
 }
