@@ -87,10 +87,6 @@ footer a:visited{
     animation: rotate-animation 10s infinite linear;
 }
 
-@keyframes fadeIn{
-	0% { opacity: 0; }
-  100% { opacity: 1; }
-}
 
 @keyframes rotate-animation {
 	0% {
@@ -338,6 +334,11 @@ footer a:visited{
         font-size: 16px;
     }
 
+    #banner:hover{
+        transform: none;
+        transition: none;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -441,5 +442,10 @@ footer a:visited{
     }
     .text-b{
         font-size: 18px;
+    }
+
+    #banner:hover{
+        transform: none;
+        transition: none;
     }
 }
